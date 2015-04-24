@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailQueueManagedAssemblies", "MailQueueManagedAssemblies\MailQueueManagedAssemblies.csproj", "{8210C201-211A-4580-B8F7-04D2DC69A6EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MailQueueManagedAssemblies.Install", "MailQueueManagedAssemblies.Install\MailQueueManagedAssemblies.Install.vdproj", "{E7ACB221-36B6-4689-8AE1-1636E87C038D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8210C201-211A-4580-B8F7-04D2DC69A6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8210C201-211A-4580-B8F7-04D2DC69A6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8210C201-211A-4580-B8F7-04D2DC69A6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8210C201-211A-4580-B8F7-04D2DC69A6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7ACB221-36B6-4689-8AE1-1636E87C038D}.Debug|Any CPU.ActiveCfg = Debug
+		{E7ACB221-36B6-4689-8AE1-1636E87C038D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
